@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-archive",
+  "name": "hexo-generator-archive-w-notshow",
   "version": "0.1.4",
-  "description": "Archive generator for Hexo.",
+  "description": "Archive generator with notshow post for Hexo.",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -12,14 +12,14 @@
   "directories": {
     "lib": "./lib"
   },
-  "repository": "hexojs/hexo-generator-archive",
+  "repository": "iXYYL/hexo-generator-archive-w-notshow",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
     "generator",
     "archive"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "XYYL <reg.fengyl@gmail.com> (https://xyyl.tech)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^1.9.1",
